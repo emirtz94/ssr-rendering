@@ -1,0 +1,6 @@
+.header-wrapper {
+    border: 1px dashed red;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}

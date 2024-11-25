@@ -1,0 +1,12 @@
+.hero-wrapper {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+
+.hero-article-wrapper {
+    display: flex;
+    align-items: center;
+    height: 200px;
+    border: 1px dashed
+}

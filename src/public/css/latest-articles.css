@@ -1,0 +1,13 @@
+.latest-articles-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.latest-articles-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    border: 1px dashed; 
+}
